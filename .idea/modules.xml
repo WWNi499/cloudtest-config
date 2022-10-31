@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/cloud_api_commons/cloud_api_commons.iml" filepath="$PROJECT_DIR$/cloud_api_commons/cloud_api_commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloud_config_center_3344/cloud_config_center_3344.iml" filepath="$PROJECT_DIR$/cloud_config_center_3344/cloud_config_center_3344.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_consumer_consul_order80/cloud_consumer_consul_order80.iml" filepath="$PROJECT_DIR$/cloud_consumer_consul_order80/cloud_consumer_consul_order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_consumer_feign_hystrix_order80/cloud_consumer_feign_hystrix_order80.iml" filepath="$PROJECT_DIR$/cloud_consumer_feign_hystrix_order80/cloud_consumer_feign_hystrix_order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/cloud_consumer_feign_order80/cloud_consumer_feign_order80.iml" filepath="$PROJECT_DIR$/cloud_consumer_feign_order80/cloud_consumer_feign_order80.iml" />

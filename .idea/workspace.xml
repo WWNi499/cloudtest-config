@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab46fef-d23c-4217-8538-1cba0f42e2d2" name="Default Changelist" comment="" />
+    <list default="true" id="fab46fef-d23c-4217-8538-1cba0f42e2d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_javaewah_JavaEWAH_1_1_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jsch_0_1_54.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jcraft_jzlib_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jgit_org_eclipse_jgit_http_apache_5_1_3_201810200350_r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_client_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_config_server_2_2_1_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud_config_center_3344/cloud_config_center_3344.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud_config_center_3344/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud_config_center_3344/src/main/java/com/jzl/springTest/ConfigCenterMain3344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cloud_config_center_3344/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,6 +50,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2Gi2lxpeP4xfbSe1LAw9LMXMCdj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,6 +62,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -77,7 +101,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.MainFeignHystrixApp80">
+  <component name="RunManager" selected="Spring Boot.ConfigCenterMain3344">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="cloud_test" />
       <option name="VM_PARAMETERS" />
@@ -121,6 +145,19 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigCenterMain3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud_config_center_3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jzl.springTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jzl.springTest.ConfigCenterMain3344" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -243,6 +280,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.ConfigCenterMain3344" />
         <item itemvalue="Spring Boot.EurekaServerMain7001" />
         <item itemvalue="Spring Boot.HystrixDashboardMain9001" />
         <item itemvalue="Spring Boot.MainApp80" />
@@ -265,11 +303,24 @@
       <workItem from="1666874779731" duration="8556000" />
       <workItem from="1666917792950" duration="50920000" />
       <workItem from="1667107779013" duration="4587000" />
+      <workItem from="1667182993237" duration="4337000" />
     </task>
+    <task id="LOCAL-00001" summary="test version1">
+      <created>1667189417821</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667189417821</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test version1" />
+    <option name="LAST_COMMIT_MESSAGE" value="test version1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="498" y="0" key="#Project_Structure" timestamp="1666967796724">
@@ -288,10 +339,10 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="883" y="158" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.816@0.0.1536.816" timestamp="1667043714657" />
-    <state x="670" y="188" key="FileChooserDialogImpl" timestamp="1667046953665">
+    <state x="670" y="188" key="FileChooserDialogImpl" timestamp="1667189124373">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="670" y="188" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1667046953665" />
+    <state x="670" y="188" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1667189124373" />
     <state width="1247" height="223" key="GridCell.Tab.0.bottom" timestamp="1667052782371">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -348,18 +399,22 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="21" y="162" key="Registry/0.0.1536.816@0.0.1536.816" timestamp="1666874658811" />
-    <state x="7" y="0" key="SettingsEditor" timestamp="1667049637005">
+    <state x="434" y="0" key="SettingsEditor" timestamp="1667192840474">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="7" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1667049637005" />
+    <state x="434" y="0" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1667192840474" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1667191860588">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1667191860588" />
     <state x="468" y="0" width="600" height="816" key="find.popup" timestamp="1666870654800">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="468" y="0" width="600" height="816" key="find.popup/0.0.1536.816@0.0.1536.816" timestamp="1666870654800" />
-    <state x="672" y="33" width="750" height="678" key="new project wizard" timestamp="1667049725840">
+    <state x="672" y="33" width="750" height="678" key="new project wizard" timestamp="1667192716439">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
-    <state x="672" y="33" width="750" height="678" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1667049725840" />
+    <state x="672" y="33" width="750" height="678" key="new project wizard/0.0.1536.816@0.0.1536.816" timestamp="1667192716439" />
     <state x="814" y="137" width="672" height="678" key="search.everywhere.popup" timestamp="1667012294674">
       <screen x="0" y="0" width="1536" height="816" />
     </state>

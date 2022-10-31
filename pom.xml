@@ -18,6 +18,7 @@
       <module>cloud_consumer_hstrix_dashboard9001</module>
       <module>cloud-gateway-gateway9527</module>
     <module>cloud_gateway_gateway9527</module>
+      <module>cloud_config_center_3344</module>
   </modules>
 
   <packaging>pom</packaging>

@@ -7,27 +7,29 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="cloud_consumer_hstrix_dashboard9001" />
+        <module name="cloud_eureka_server7001" />
+        <module name="cloud_provider_payment8004" />
+        <module name="cloud_consumer_consul_order80" />
+        <module name="cloud_consumer_zk_order80" />
         <module name="cloud_consumer_feign_order80" />
+        <module name="cloud_provider_payment8006" />
         <module name="cloud_eureka_server7002" />
         <module name="cloud_gateway_gateway9527" />
-        <module name="cloud_consumer_zk_order80" />
-        <module name="cloud_consumer_feign_hystrix_order80" />
-        <module name="cloud_provider_payment8006" />
-        <module name="cloud_provider_payment8004" />
-        <module name="cloud_eureka_server7001" />
         <module name="cloud_provider_payment8002" />
         <module name="cloud_provider_payment8001" />
-        <module name="cloud_consumer_hstrix_dashboard9001" />
+        <module name="cloud_consumer_feign_hystrix_order80" />
         <module name="cloud_consumer_order80" />
-        <module name="cloud-gateway-gateway9527" />
         <module name="cloud_api_commons" />
         <module name="cloud_provider_hystrix_payment8001" />
-        <module name="cloud_consumer_consul_order80" />
+        <module name="cloud-gateway-gateway9527" />
+        <module name="cloud_config_center_3344" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="cloud-gateway-gateway9527" target="1.8" />
       <module name="cloud_api_commons" target="1.8" />
+      <module name="cloud_config_center_3344" target="1.8" />
       <module name="cloud_consumer_consul_order80" target="1.8" />
       <module name="cloud_consumer_feign_hystrix_order80" target="1.8" />
       <module name="cloud_consumer_feign_order80" target="1.8" />
